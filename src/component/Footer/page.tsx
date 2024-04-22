@@ -200,7 +200,7 @@ const Page = () => {
         </nav>
         <p className="mt-20 text-xs text-center text-white/50">
           HypeLoot is a brand name of Abacanes LTD, Reg No: HE443277, Having
-          it's registered address at Strovolou, 77 STROVOLOS CENTER, 4th floor,
+          it&apos;s registered address at Strovolou, 77 STROVOLOS CENTER, 4th floor,
           Office 401 Strovolos, 2018, Nicosia, Cyprus{" "}
         </p>
         <ul className="flex justify-center gap-4 md:gap-[50px] mt-10 md:mt-[60px]">
